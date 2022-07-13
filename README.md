@@ -1,3 +1,8 @@
+## WARNING: This extension is unsupported and archived for read-only / backwards-compatibilties.
+Consider 2rd-party S/FTP connecters, such as CData (https://www.cdata.com/drivers/sftp/) or https://servoycomponents.com/components/plugins.
+
+-----
+
 # svySFTP
 Servoy module to make SFTP connections (FTP commands over SSH protocol)
 
